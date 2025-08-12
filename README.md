@@ -1,6 +1,7 @@
 # HiX Complication Miner – GUI for Free-Text Keyword Extraction
 
 This Python application provides a graphical user interface (GUI) to mine and analyze complications or medical terms from free-text fields in HiX electronic health record (EHR) exports.
+Build for internal use at Princes Maxima Centrum
 
 ## Features
 - **Excel file support**: Works with `.xlsx` files exported from HiX.
